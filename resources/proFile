@@ -1,0 +1,12 @@
+TEMPLATE = app
+CONFIG += console
+CONFIG -= app_bundle
+CONFIG -= qt
+CONFIG += c++11
+
+include(<projectName>UnrealDefines.pri)
+ 
+HEADERS += ../../Source/<projectName>/*.h 
+SOURCES += ../../Source/<projectName>/*.cpp
+ 
+include(<projectName>UnrealIncludes.pri)

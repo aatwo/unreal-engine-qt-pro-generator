@@ -1,6 +1,6 @@
 # UnrealEngineQtProGenerator
 
-<b>What is this?</b> This tool helps you generate Qt project files on Windows for your Unreal Engine C++ projects, allowing you to open, run, build and debug your projects using Qt Creator.
+<b>What is this?</b> This tool helps you generate Qt project files on Windows for your Unreal Engine C++ projects. This allows you to open, run, build and debug your projects using Qt Creator.
 
 <b>Why the heck would you want to do this?</b> 
 Well to be honest you probably wouldn't, but if you're like me and prefer Qt Creator to Visual Studio then this is the project for you!
